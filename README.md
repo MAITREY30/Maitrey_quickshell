@@ -1,0 +1,1 @@
+Develop a React-based Kanban board application that integrates with Quicksell's API. The app should allow users to dynamically group tickets by status, user, or priority, and sort them by priority or title. Priority levels should be assigned as follows: Urgent (4), High (3), Medium (2), Low (1), and No Priority (0).
